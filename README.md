@@ -11,6 +11,6 @@ The open-source Anaconda Distribution is the easiest way to perform Python/R dat
 ##### For downgrade/upgrade the python version:
 4. Open up your terminal
 5. Search for available versions: 
-$ conda search python
+`$ conda search python`
 6. To change your python version, just type for example:
-$ conda install python=3.6.2
+`$ conda install python=3.6.2`
