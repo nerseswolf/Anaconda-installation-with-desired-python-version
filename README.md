@@ -1,5 +1,6 @@
 # Anaconda installation with desired python version - made very easy
 
+The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X. 
 
 ### Steps:
 
